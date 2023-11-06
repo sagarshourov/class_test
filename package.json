@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@slack/web-api": "^6.9.0",
+    "@tabler/icons-react": "^2.39.0",
+    "@tsed/tailwind-formio": "^2.2.3",
+    "react-axios": "^2.0.6",
+    "react-form-builder2": "^0.16.5",
+    "react-slack-chat": "^1.15.2",
+    "styled-components": "^6.0.8"
+  },
+  "devDependencies": {
+    "postcss-nested": "^6.0.1"
+  }
+}
